@@ -36,28 +36,6 @@
 
 ---
 
-> add logo here later
-
-## Cornell Tech Events and Hackathons
-
-### Fall 2016
-
-What | Where | When
----|---|---
-Design Hackathon | Cornell Tech | October 1
-End Human Trafficking Hackathon | Cornell Tech | October 7-9
-Product Manager Conference | XO Group/195 Broadway NY NY | November 5
-Fintech Hackathon | Cornell Tech | November 11-13
-
-### Spring 2017
-
-What | Where | When
----|---|---
-Random Hacks of Kindness | Cornell Tech | February 17-19
-Health Tech Hackathon | Cornell Tech | March 10-12
-
----
-
 ## NYC | Silicon Alley
 
 ### Tech Events
