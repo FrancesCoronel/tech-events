@@ -1,6 +1,6 @@
-# Tech Events
+# tech-events
 
-[![forthebadge](http://forthebadge.com/images/badges/oooo-kill-em.svg)](http://forthebadge.com)
+[![Github Issues](http://githubbadges.herokuapp.com/fvcproductions/readme/issues.svg?style=flat-square)](https://github.com/fvcproductions/readme/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/fvcproductions/readme/pulls.svg?style=flat-square)](https://github.com/fvcproductions/readme/pulls) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 > Tech events all around the world...
 
@@ -12,33 +12,22 @@
 >
 > La la la la la - And now commits are merging
 
-## Find 'Em
+## Table of Contents
+
+- [Finding Events](#finding-events)
+- [Hackathons](#usage)
+- [Contributing](#contributing)
+- [Credits](#credits)
+- [Donations](#donations)
+
+## Finding Events
 
 - [Eventbrite](https://www.eventbrite.com)
 - [Meetup](http://www.meetup.com/)
 - [Startup Digest](https://www.startupdigest.com/)
 - [Tech Crunch](http://techcrunch.com/events)
 
-## Hackathons
-
-- [AngelHack](http://angelhack.com/events)
-    + supported by AngelHack
-- [Devpost](https://devpost.com/hackathons)
-- [Ha.ckathon](http://ha.ckathon.com/)
-- [Hackathon.com](http://www.hackathon.com/)
-- [Hackathon.io](http://www.hackathon.io/events)
-- [Hackathons Near Me](http://hackathonsnear.me/)
-    + search by location
-- [Hackevents](https://hackevents.co/hackathons)
-- [Major League Hacking](https://mlh.io/)
-    + for folks in school
-    + [Local Hack Day by MLH](https://localhackday.mlh.io/)
-
----
-
-## NYC | Silicon Alley
-
-### Tech Events
+### New York City
 
 - [BigApps](http://nycbigapps.com/)
 - [Digital NYC Events](http://www.digital.nyc/events/search)
@@ -50,44 +39,44 @@
 - [UltraLight Startup Event](http://ultralightstartups.com/)
 - [Walkabout NYC](http://walkaboutnyc.com/)
 
-### Hackathons
+## Hackathons
+
+- [AngelHack](http://angelhack.com/events)
+- [Devpost](https://devpost.com/hackathons)
+- [Ha.ckathon](http://ha.ckathon.com/)
+- [Hackathon.com](http://www.hackathon.com/)
+- [Hackathon.io](http://www.hackathon.io/events)
+- [Hackathons Near Me](http://hackathonsnear.me/)
+- [Hackevents](https://hackevents.co/hackathons)
+- [Local Hack Day by MLH](https://localhackday.mlh.io/)
+- [Major League Hacking](https://mlh.io/)
+
+### New York City
 
 - [NY Hackathons](http://nyhackathons.com/)
     + hip and happenin' NYC hackathons all in one place
 
----
-
 ## Contributing
 
-To get started...
+> To get started...
 
-1. 🍴 Fork this repo [here](https://github.com/fvcproductions/tech-events#fork-destination-box)
-2. 🔠 Add event links in **alphabetical** order
-3. 🔟 Add hackathons in **chronological order**
-3. ➕ Add yourself as a contributor
-4. 🔃 Make a pull request [here](https://github.com/fvcproductions/tech-events/compare)
+- 🍴 Fork this repo [here](https://github.com/fvcproductions/readme#fork-destination-box)
+- 🔠 Add event links in **alphabetical** order
+- 🔟 Add hackathons in **chronological order**
+- 😊 Add yourself as a contributor under credits
+- 🔧 Make a pull request [here](https://github.com/fvcproductions/readme/compare)
 
----
+> Or just create an issue - any little bit of help counts! 😊
 
-## Team
+- 😯 Create an issue [here](https://github.com/fvcproductions/readme/issues)!
 
-[![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) |
-:---:|
-[`fvcproductions`](http://github.com/fvcproductions) |
+## Credits
 
-
----
+- [FVCproductions](http://fvcproductions.com)
 
 ## Donations
 
-Feed me... 🍕
+> Feed me... 🍕
 
 [![Donate via PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](http://paypal.me/fvcproductions)
 
----
-
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-2016 © [FVCproductions](http://fvcproductions.com)
