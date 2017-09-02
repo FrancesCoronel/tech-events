@@ -33,7 +33,7 @@
 - [ACM-W Celebrations](http://women.acm.org/celebrations) 🎓 🚺
 - [Eventbrite](https://www.eventbrite.com)
 - [Lanyrd](http://lanyrd.com)
-- [Meetup](http://www.meetup.com/)
+- [Meetups](http://www.meetup.com/)
 - [Startup Digest](https://www.startupdigest.com/)
 - [TechConferences.io](http://www.techconferences.io/)
 - [Tech Crunch](http://techcrunch.com/events)
