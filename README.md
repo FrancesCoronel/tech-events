@@ -1,4 +1,4 @@
-# tech-events
+# Tech Events
 
 [![Github Issues](http://githubbadges.herokuapp.com/fvcproductions/tech-events/issues.svg?style=flat-square)](https://github.com/fvcproductions/tech-events/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/fvcproductions/tech-events/pulls.svg?style=flat-square)](https://github.com/fvcproductions/tech-events/pulls) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
@@ -12,21 +12,27 @@
 >
 > La la la la la - And now commits are merging
 
+<!-- TOC -->
+
+- [Tech Events](#tech-events)
+  - [Key](#key)
+  - [Events](#events)
+    - [New York City](#new-york-city)
+  - [Hackathons](#hackathons)
+    - [New York City](#new-york-city)
+  - [Speaking](#speaking)
+  - [Other Resources](#other-resources)
+  - [Contributing](#contributing)
+  - [Credits](#credits)
+  - [Donations](#donations)
+
+<!-- /TOC -->
+
 ## Key
 
 🎓 **Collegiate** - geared towards students still in school
 
 🚺 **Women** - geared towards women in tech
-
-## Table of Contents
-
-- [Events](#events)
-- [Hackathons](#usage)
-- [Speaking](#speaking)
-- [Other Resources](#other-resources)
-- [Contributing](#contributing)
-- [Credits](#credits)
-- [Donations](#donations)
 
 ## Events
 
